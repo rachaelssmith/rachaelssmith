@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, my name is Rachael Smith
+#### Data Science Optimist
+![Data Science Optimist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**rachaelssmith/rachaelssmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior at BYU-Idaho who has taken every class I can that will help me with Data Science and Machine Learning.  My interests include data visualization, working with complex data, asking questions about my data, data bias, and feature engineering.  When I run a feature importance chart on my model, nothing makes me more excited than seeing a feature that I envisioned show up as an important predictor for the model.
 
-Here are some ideas to get you started:
+BS | **Data Science**
+Minor | **Business Analytics**
+Certificate | **Machine Learning Fundamentals**
+GPA | 3.9
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: **PYTHON**  |  **R**  |  **SQL**  |  **POWER BI**
+
+- 🔭 I’m currently working on an analytics engineer internship, followed by a smart manufacturing and AI internship 
+- 🌱 I’m currently learning discrete math 
+- 💬 Ask me about wakesurfing, shihtzus, and data ethics 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I am a founder of a charter school 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rachaelssmith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rachael-s-smith/)  
+
