@@ -3,10 +3,10 @@
 
 I am a senior at BYU-Idaho who has taken every class I can that will help me with Data Science and Machine Learning.  My interests include data visualization, working with complex data, asking questions about my data, data bias, and feature engineering.  When I run a feature importance chart on my model, nothing makes me more excited than seeing a feature that I envisioned show up as an important predictor for the model.
 
-BS | **Data Science**
-Minor | **Business Analytics**
-Certificate | **Machine Learning Fundamentals**
-GPA | 3.9
+BS:  **Data Science** |
+Minor: **Business Analytics** |
+Certificate:  **Machine Learning Fundamentals**|
+GPA: 3.9
 
 Skills: **PYTHON**  |  **R**  |  **SQL**  |  **POWER BI**
 
