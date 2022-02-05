@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rachael Smith
 #### Data Science Optimist
-![Data Science Optimist](https://github.com/rachaelssmith/rachaelssmith/blob/main/DataScience.jpf)
+![Data Science Optimist](https://user-images.githubusercontent.com/5941284/152660618-18bef194-1b76-447e-b612-bb86875ca8b2.jpg)
 
 I am a senior at BYU-Idaho who has taken every class I can that will help me with Data Science and Machine Learning.  My interests include data visualization, working with complex data, asking questions about my data, data bias, and feature engineering.  When I run a feature importance chart on my model, nothing makes me more excited than seeing a feature that I envisioned show up as an important predictor for the model.
 
