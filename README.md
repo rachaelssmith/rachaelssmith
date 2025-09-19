@@ -9,7 +9,7 @@ Minor: **Statistics** |
 Certifications: **Machine Learning Fundamentals** | 
 GPA: 3.9
 
-Skills: **PYTHON**  |  **SQL**  |  **GOOGLE CLOUD PLATFORM**  |  **GITLAB**  |  **DASH**  |  **AGGRID**  |  **R**  |  **POWER BI** |  **SHAP**  |  **TENSORFLOW**  |
+Skills: **PYTHON**  |  **SQL**  |  **GOOGLE CLOUD PLATFORM**  |  **GITLAB**  |  **DASH**  |  **AGGRID**  |  **R**  |  **POWER BI** |  **SHAP**  |  **TENSORFLOW**
 
 ![Data Science Optimist](https://user-images.githubusercontent.com/5941284/152660618-18bef194-1b76-447e-b612-bb86875ca8b2.jpg)
 
